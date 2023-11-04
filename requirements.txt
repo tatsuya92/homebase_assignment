@@ -1,0 +1,6 @@
+pandas==2.1.2
+psycopg2==2.9.9
+clickhouse-driver==0.2.6
+SQLAlchemy==1.4.50
+apache-airflow==2.7.2
+python-decouple==3.8

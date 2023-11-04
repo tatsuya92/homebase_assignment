@@ -1,0 +1,30 @@
+{
+    "source_data": {
+        "file_path": "data/raw/iris/iris.data",
+        "table_name": "iris_plant",
+        "schema": "iris_plant",
+        "columns": [
+            {
+                "name": "sepal_length",
+                "type": "numeric"
+            },
+            {
+                "name": "sepal_width",
+                "type": "numeric"
+            },
+            {
+                "name": "petal_length",
+                "type": "numeric"
+            },
+            {
+                "name": "petal_width",
+                "type": "numeric"
+            },
+            {
+                "name": "class",
+                "type": "string"
+            }
+        ],
+        "summary_columns": ["sepal_length", "sepal_width", "petal_length"]
+    }
+}
